@@ -3,8 +3,8 @@ Finds what changed between two videos or two images and highlights it. Changed r
 Setup
 You need Python 3.9+.
 ```bash
-git clone https://github.com/murlijha2025/Compare-Differences-between-Videos-or-Images.git
-cd Compare-Differences-between-Videos-or-Images
+git clone https://github.com/murlijha2025/Compare_and_find_difference_between_images_and_videos_frames.git
+cd Compare_and_find_difference_between_images_and_videos_frames
 pip install -r requirements.txt
 ```
 Usage
